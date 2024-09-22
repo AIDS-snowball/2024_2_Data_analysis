@@ -25,14 +25,14 @@
 6. github 현재 레포지터리로 이동
 7. 상단 바에서 **`pull requests`** 클릭
 8. **`New pull request`** 클릭  <br/>
-   <img src="https://github.com/user-attachments/assets/044abc46-8615-430a-ae26-38d1295db19f">
+   <img width="1216" alt="image" src="https://github.com/user-attachments/assets/f708c684-48ee-433d-ae37-d802973981d3">
 
 9. **`create pull request`** 클릭<br/>
-   <img src="https://github.com/user-attachments/assets/1dbe0204-c251-4302-b97c-cff5f83c021e">
+   <img width="1200" alt="image" src="https://github.com/user-attachments/assets/783abb96-cf63-4239-bdb6-fe28ba55b6e4">
 
 10. **`Add a title`** 은 변경하지 않고 **`Add a description`** 에 질문을 적어 **`create pull request`** 클릭  
-   <img src="https://github.com/user-attachments/assets/409afdbc-be4e-4d30-97d6-4a6d661dd05e" width="600">
+   <img width="826" alt="image" src="https://github.com/user-attachments/assets/7642a0c9-e005-46aa-b71b-878a3fc43598">
 
 11. [옵션] 아래와 같이 **`merge pull request`** 와 **`confirm merge`** 클릭  
-   <img src="https://github.com/user-attachments/assets/1429943e-bbd7-499a-8d59-d9ad622da2a8" width="600">
-   <img src="https://github.com/user-attachments/assets/4d2ec40b-ac5c-473e-b980-7eef3510d623" width="600">
+   <img width="881" alt="image" src="https://github.com/user-attachments/assets/4ac1f1e7-3173-4823-81d3-022238cc597f">
+   <img width="879" alt="image" src="https://github.com/user-attachments/assets/e67395e5-f96a-4fef-a40d-8607b260f718">
