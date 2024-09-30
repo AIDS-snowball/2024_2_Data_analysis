@@ -11,7 +11,7 @@
 1. 초대 후 우측 상단의 `inbox📥`를 통해 **`accept invitation`** 클릭
 2. 좌측 메뉴에서 본 리포지토리가 생긴 것을 확인할 수 있다.
 3. 우측 상단에 **`fork`** 를 클릭<br/>
-   <img src="https://github.com/user-attachments/assets/55c1663c-e891-4c03-b4ef-4b8eb7cde58e" width="300">
+   <img width="198" alt="image" src="https://github.com/user-attachments/assets/c6b68ce5-4380-4335-b3fe-ac36bb72183b">
 
 4. 우측 하단의 **`create fork`** 를 클릭
 5. 자기 레포지토리가 생성된 것을 확인할 수 있다.
