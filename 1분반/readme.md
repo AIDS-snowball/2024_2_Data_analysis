@@ -30,9 +30,12 @@
 4. 맞춤형 챌린지를 통한 독서인구 증가 도모
 ### 사용한 데이터 분석 기술
 **시각화**
+![image](https://github.com/user-attachments/assets/06d41f90-396b-41b3-ab36-5e35cafb2b6d)
 
 **DBSCAN**
+![image](https://github.com/user-attachments/assets/77e32179-61ce-4be5-b9d6-53e9ff5dd74a)
 
 **k-means clustering**
+![image](https://github.com/user-attachments/assets/2f49a0cb-4d99-4f64-871d-2e0de5099f72)
 
 [코드 보러가기](./2차프로젝트)
