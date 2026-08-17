@@ -1,5 +1,14 @@
 # 2024_2_Data_analysis
 
+## 🏆 수상 경력
+
+- **한국문화관광연구원장 우수상**
+  - **대회명:** 문화체육관광 데이터 활용대회
+  - **팀명:** 북트리
+  - **주제:** 독서 인구 증가를 위한 챌린지 제안
+  - **수상일:** 2024.12
+  - **링크:** [https://github.com/jjujimin/2024_2_Data_analysis](https://github.com/AIDS-snowball/2024_2_Data_analysis/tree/main/1분반/2차프로젝트)
+
 ### ☃️ 2024 2학기 snow ball 데이터 분석 스터디용 github ☃️
 
 ## 💢 규칙
